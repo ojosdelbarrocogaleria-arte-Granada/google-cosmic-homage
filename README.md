@@ -1,7 +1,3 @@
-markdown
-
-![The Cosmic Search](google-space-odyssey-pencil-digital-tribute.png)
-
 # 🚀 The Cosmic Search: A Creative Homage to Google
 
 This repository hosts an original hybrid artwork blending graphite pencil sketches with digital neon editing, depicting Google as a bridge for human curiosity and cosmic exploration.
