@@ -12,4 +12,4 @@ This repository hosts an original hybrid artwork blending graphite pencil sketch
 * **Inspiration:** Retro-futuristic storytelling, designed for the Google Doodle and creative engineering teams.
 
 ---
-* **Artist:** [Ojos del Barroco Galería](https://github.com/ojosdelbarrocogaleria-arte-Granada)
+* **Artist:** [Polosky (Ojos del Barroco Galería)](https://ojosdelbarroco.es/arte-contemporaneo/artistas/polosky/)  
